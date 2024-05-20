@@ -65,7 +65,7 @@ body{
 .preview{
     position: relative;
     height: calc(90vh - 30px);
-    background: #000;
+    background: #fff;
     border-top: 10px ridge #333;
 }
 
